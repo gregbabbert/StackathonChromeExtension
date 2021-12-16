@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Link Connect",
-    "description": "Chrome extension to see your linkedin updates and alerts",
+    "name": "Text Speak",
+    "description": "Text Speak is a chrome extension that reads text for you. This could be used to read a document aloud to you, or to just have your computer say something.",
     "version": "0.1.0",
     "author": "Greg Babbert",
     "content_scripts": [
