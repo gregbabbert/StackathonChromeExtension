@@ -57,10 +57,3 @@ const stopSpeaking = () => {
     speechSynthesis.cancel()
 }
 
-
-let webPage = document.querySelector('body')
-webPage.addEventListener("click", (evt) => {
-    let pValue = evt.target.textContent;
-    alert(pValue)
-})
-
