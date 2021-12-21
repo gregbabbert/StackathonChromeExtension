@@ -8,4 +8,4 @@
   <li>Click Load unpacked in the top left corner</li>
   <li>Select the repo folder for this extension</li>
 </ol>
-##### These steps should allow you to use Text Speak locally on your Google Chrome. In the future I might make updates, but this is what I have so far.
+These steps should allow you to use Text Speak locally on your Google Chrome. In the future I might make updates, but this is what I have so far.
